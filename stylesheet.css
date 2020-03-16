@@ -1,0 +1,60 @@
+body {
+  font-family: "MV Boil";
+}
+
+.header {
+  background-color :silver;
+  height :100px;
+  color :white;
+}
+.header-logo{
+  font-family :serif;
+  float :left;
+  font-size :30px;
+  padding :28px;
+}
+
+li {
+  list-style:none;
+  display:inline-block;
+  padding:40px ;
+  text-align :right;
+
+
+}
+.main {
+  background-clor :white:;
+}
+.copy-container h1 {
+font-size :100px;
+padding :30px 30px 10px 30px;
+}
+
+.copy-container h2{
+  font-size :20px;
+  padding-left :50px;
+  padding-bottom :600px;
+}
+span {
+  color:silver;
+}
+.main{
+  height:400px;
+}
+
+.section-title {
+  border-bottom:4px solid silver;
+}
+.footer {
+  background-color:silver;
+  height: 140px;
+}
+.footer-logo {
+  font-family:serif;
+  font-size: 30px;
+  padding: 40px;
+  color:white;
+}
+.footer-list  {
+  float :right;
+}
